@@ -17,12 +17,11 @@ This project implements a neural network **from scratch** using NumPy to recogni
 
 - Python 3.x
 - NumPy
-- OpenCV (for GUI predictor)
 
 Install dependencies:
 
 ```bash
-pip install numpy opencv-python
+pip install numpy
 ```
 
 ## 🚀 Usage
