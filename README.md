@@ -97,6 +97,8 @@ Epoch 29: 9065 / 10000
 Based on concepts from  
 📘 *Neural Networks and Deep Learning* by [Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
+Dataset provided by  
+📊 [Ujjwal Paudel](https://www.kaggle.com/datasets/ujjwalpaudel/nepali-handwritten-digits) on Kaggle
 ---
 
 ## 👨‍💻 Author
