@@ -92,4 +92,15 @@ Epoch 29: 9065 / 10000
 ```
 
 
-# nepali-digit-net
+## 🙏 Credits
+
+Based on concepts from  
+📘 *Neural Networks and Deep Learning* by [Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+
+---
+
+## 👨‍💻 Author
+
+**Kebal Badal**  
+AI Student | Builder | Explorer  
+[GitHub](https://github.com/kebal7) 
