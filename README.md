@@ -7,9 +7,9 @@ This project implements a neural network **from scratch** using NumPy to recogni
 - **Custom Neural Network**: Built without external ML libraries, only NumPy.
 - **Nepali Digit Dataset**: Trained on Kaggle's Nepali handwritten digits.
 - **Training & Prediction**:
-  - Mini-batch stochastic gradient descent training (`src/train.py`)
+  - Mini-batch stochastic gradient descent training (`src/network.py`)
   - Testing on images (`src/test_image.py`)
-  - GUI predictor to draw digits and predict interactively (`gui_predictor/`)
+  - GUI predictor to draw digits and predict interactively (`src/gui_predictor.py`)
 - **Model Storage**: Saved and loaded from the `model/` directory.
 - **Performance**: Over 90% accuracy on test set.
 
